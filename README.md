@@ -151,7 +151,7 @@ Pontuações de Performance, Progressive Web App, Accessibility e Best Practices
 </div>
 
 ---
-## 7. Desenvolvedoras
+## 7. Desenvolvedora
 
 <table>
   <tr>
@@ -164,17 +164,7 @@ Pontuações de Performance, Progressive Web App, Accessibility e Best Practices
       </a>
     </td>
   </tr>
-  <tr>
-    <td align="center">
-      <a href="https://github.com/MonicaGuimaraes">
-  <img align="center" alt="Monica"  width="100px;" style="border-radius:50px;" src="https://avatars.githubusercontent.com/u/97262052?v=4"> <br>       
-  <sub>
-          <b>Mônica Guimaraes</b>
-        </sub>
-      </a>
-    </td>
-  </tr>
- <tr>
+  <tr>  
 
 </table>
 
